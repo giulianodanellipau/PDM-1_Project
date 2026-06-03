@@ -2,7 +2,7 @@
 O Pagaí é um aplicativo focado no círculo de transportes públicos. 
 
 # Conteúdo
-O aplicativo começa com uma aba de login, depois há uma aba principal abrangindo a maior parte das funcionalidades, depois há uma aba de recarga para passes, uma aba para compra de tickets de transportes, rotas dos serviços e horário dos serviços e uma aba para as configurações.
+O aplicativo começa com uma aba de login, depois há uma aba principal abrangendo a maior parte das funcionalidades, depois há uma aba de recarga para passes, uma aba para compra de tickets de transportes, rotas dos serviços e horário dos serviços e uma aba para as configurações.
 
 # Persona
 Persona 1:
@@ -18,7 +18,7 @@ Rosa, 36 anos, secretária, mora longe do trabalho e precisa utilizar o metrô c
 - Falta de um mapa explicativo e fácil de entender, mostrando cada metrô e seus horários
 
 # Solução 
-Trazemos o aplicativo que vem resolver a falta de acesso, tempo e trazemos facilidade de uso. Ele junta todos os transportes públicos e traz todas as funcionalidades deles. Funções como: recarga, compra de ticket, analização de rotas e tabela de horários, melhorando a experiência do usuário ao máximo.
+Trazemos o aplicativo que vem resolver a falta de acesso, tempo e trazemos facilidade de uso. Ele junta todos os transportes públicos e traz todas as funcionalidades deles. Funções como: recarga, compra de ticket, utilização de rotas e tabela de horários, melhorando a experiência do usuário ao máximo.
 
 # Tecnologias utilizadas
 React-Native
